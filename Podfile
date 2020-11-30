@@ -22,8 +22,8 @@ def reactive_pods
 end
 
 def test_pods
-  pod 'Quick', '~> 1.2.0'
-  pod 'Nimble', '~> 7.3'
+  pod 'Quick', '~> 3.0.0'
+  pod 'Nimble', '~> 9.0.0'
   pod 'iOSSnapshotTestCase'
 end
 
